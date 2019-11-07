@@ -64,4 +64,6 @@ huggingface项目地址：https://github.com/huggingface/transformers
 
 ##相关结果
 
-使用divided\_data中的数据得到的验证集F1值为：71.2806468# ---
+使用divided\_data中的数据得到的验证集F1值为：71.280646
+
+使用测试数据得到F1值为70.0119
